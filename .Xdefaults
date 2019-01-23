@@ -1,0 +1,6 @@
+URxvt*font: xft:Monospace:pixelsize=16
+URxvt*boldFont: xft:Monospace:pixelsize=16
+URxvt.scrollStyle:          rxvt
+URxvt.scrollBar:            false
+*background: #101213
+*foreground: #a9aca6
