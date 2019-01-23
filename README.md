@@ -1,5 +1,6 @@
 TODO describe dependencies:
 
+- xmobar
 - zsh
 - OhMyZsh
 - stalonetray
