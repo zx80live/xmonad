@@ -26,7 +26,7 @@ main = do
     xmproc <- spawnPipe "setxkbmap -layout us,ru -option 'grp:shifts_toggle'"
     xmproc <- spawnPipe "stalonetray &"
     xmproc <- spawnPipe "feh --bg-scale /usr/share/wallpapers/openSUSEdefault/screenshot.jpg"
-    xmproc <- spawnPipe "/home/pav/.cabal/bin/xmobar /home/pav/.xmonad/xmobar.hs"
+    xmproc <- spawnPipe "~/.cabal/bin/xmobar ~/.xmonad/xmobar.hs"
     
     
     xmonad $ ewmh $  desktopConfig
