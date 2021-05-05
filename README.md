@@ -20,7 +20,7 @@ TODO describe dependencies:
 ```bash
 mkdir -p ~/.local/bin
 
-sudo apt install git curl
+sudo apt install git curl vim rofi
 sudo apt install libx11-dev libxrandr-dev libxinerama-dev libxss-dev pkg-config libxft-dev
 
 curl -sSL https://get.haskellstack.org/ | sh
