@@ -16,7 +16,7 @@ TODO describe dependencies:
 - speaker-test
 
 
-##### Experiments on Ubuntu 18
+##### Install xmonad on Ubuntu 18
 ```bash
 sudo apt install git curl
 sudo apt install libx11-dev libxrandr-dev libxinerama-dev libxss-dev pkg-config libxft-dev
