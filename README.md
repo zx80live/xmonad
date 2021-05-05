@@ -50,5 +50,9 @@ StartupNotify=false
 Categories=Application;
 ```
 
+```bash
+rofi-theme-selector
+```
+
 ##### Used links
 [setup xmonad from sources](https://brianbuccola.com/how-to-install-xmonad-and-xmobar-via-stack/)
