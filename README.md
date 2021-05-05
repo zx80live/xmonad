@@ -34,7 +34,7 @@ git clone "https://github.com/jaor/xmobar" xmobar-git
 stack init
 stack install
 
-vim /usr/share/xsessions/xmonad.desktop
+sudo vim /usr/share/xsessions/xmonad.desktop
 ```
 
 ```
