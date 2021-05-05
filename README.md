@@ -33,6 +33,21 @@ git clone "https://github.com/jaor/xmobar" xmobar-git
 
 stack init
 stack install
+
+vim /usr/share/xsessions/xmonad.desktop
+```
+
+```
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Xmonad
+Comment=Xmonad
+Exec=xmonad
+Icon=xmonad
+Terminal=false
+StartupNotify=false
+Categories=Application;
 ```
 
 ##### Used links
