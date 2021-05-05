@@ -15,8 +15,7 @@ TODO describe dependencies:
 - amixer
 - speaker-test
 
-
-##### Install xmonad on Ubuntu 18
+##### Install xmonad on Ubuntu 18 (stack)
 ```bash
 mkdir -p ~/.local/bin
 
