@@ -31,9 +31,9 @@ git clone "https://github.com/xmonad/xmonad" xmonad-git
 git clone "https://github.com/xmonad/xmonad-contrib" xmonad-contrib-git
 git clone "https://github.com/jaor/xmobar" xmobar-git
 
-stack init
+stack inithttps://brianbuccola.com/how-to-install-xmonad-and-xmobar-via-stack/
 stack install
 ```
 
 ##### Used links
-(setup xmonad from sources)[https://brianbuccola.com/how-to-install-xmonad-and-xmobar-via-stack/]
+[setup xmonad from sources](https://brianbuccola.com/how-to-install-xmonad-and-xmobar-via-stack/)
