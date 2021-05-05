@@ -18,6 +18,8 @@ TODO describe dependencies:
 
 ##### Install xmonad on Ubuntu 18
 ```bash
+mkdir -p ~/.local/bin
+
 sudo apt install git curl
 sudo apt install libx11-dev libxrandr-dev libxinerama-dev libxss-dev pkg-config libxft-dev
 
